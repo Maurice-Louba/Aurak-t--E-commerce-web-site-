@@ -16,7 +16,7 @@ Bienvenue sur **Aurak-t**, un projet de site web E-commerce développé pour le 
 - [Contribuer](#contribuer)
 - [Licence](#licence)
 
----
+----
 
 ## À propos
 
