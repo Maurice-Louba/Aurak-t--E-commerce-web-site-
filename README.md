@@ -44,7 +44,7 @@ Aurak-t est un projet de démonstration d'un site E-commerce complet, avec des p
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- React js
 - Node.js pour gestion du projet (npm)
 - Tailwind CSS (si utilisé)
 
